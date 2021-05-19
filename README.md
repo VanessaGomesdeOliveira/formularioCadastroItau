@@ -17,3 +17,5 @@ https://www.w3schools.com/
 https://developer.mozilla.org/
 
 https://blog.rocketseat.com.br/
+
+https://www.devmedia.com.br/
